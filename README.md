@@ -1,15 +1,15 @@
 ### Hi there 👋
-Hello! I am ProMohican also known as 'Ginadi'
-I am programming, developing and learning for 1 year.
-I know front-end and back-end.
+Hello! I am ProMohican also known as 'Ginadi'  
+I am programming, developing and learning for 1 year.  
+I know front-end and back-end.  
 
 ### Knowledge
-**Python** - Expert - Main and favorited language
-**HTML5** - Expert
-**CSS3** - Expert - Vanilla w/ SASS
-**JavaScript** - Beginner
-**SQL** - Advanced
-**Networks** - Beginner
+**Python** - Expert - Main and favorited language  
+**HTML5** - Expert  
+**CSS3** - Expert - Vanilla w/ SASS  
+**JavaScript** - Beginner  
+**SQL** - Advanced  
+**Networks** - Beginner  
 <!--
 **ProMohican/ProMohican** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
